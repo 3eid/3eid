@@ -17,10 +17,9 @@
 - 👨‍🏫 Part-time Programming Instructor
 - 🏢 CSE Senior undergraduate at Faculty of Electronic Engineering, Menofia Uni 
 - 💼 I have a strong enthusiasm for business management and development
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python, Django, SQL, HTML, CSS, JS, C, C++.
-- 🛹 Fun Fact: I do skateboarding in my free time.
-- 👨‍💻 Check out my linkedin at [Mohamed Eid - LinkedIn](https://www.linkedin.com/in/mohamed-eid-4354311b4/) to know more about me.
+- 💬 Ask me about my experience with Python, Django, SQL, HTML, CSS, JS, C, C++
+- 🛹 Fun Fact: I do skateboarding in my free time
+- 👨‍💻 Check out my linkedin at [Mohamed Eid - LinkedIn](https://www.linkedin.com/in/mohamed-eid-4354311b4/) to know more about me
 
 
 
