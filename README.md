@@ -13,12 +13,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 CSE Senior undergraduate at Faculty of Electronic Engineering, Menofia University 
 - 🧑‍💻 Freelance  software solutions developer
 - 👨‍🏫 Part-time Programming Instructor
+- 🏢 CSE Senior undergraduate at Faculty of Electronic Engineering, Menofia University 
 - 💼 I have strong enthusiasm about business management and development
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python, Django, SQL, HTML, CSS, JS, C, C++ or anything related to web development or Embedded systems.
+- 💬 Ask me about my experience with Python, Django, SQL, HTML, CSS, JS, C, C++ or anything related to web developmen or Embedded systems.
 - 🛹 Fun Fact: I do skateboarding in my freetime.
 - 👨‍💻 Check out my linkedin at [Mohamed Eid - LinkedIn](https://www.linkedin.com/in/mohamed-eid-4354311b4/) to know more about me.
 
