@@ -15,7 +15,7 @@
 
 - 🧑‍💻 Freelance  software solutions developer
 - 👨‍🏫 Part-time Programming Instructor
-- 🏢 CSE Senior undergraduate at Faculty of Electronic Engineering, Menofia Uni 
+- 🏢 CSE Senior undergraduate at Faculty of Electronic Engineering, Menofia University 
 - 💼 I have a strong enthusiasm for business management and development
 - 💬 Ask me about my experience with Python, Django, SQL, HTML, CSS, JS, C, C++
 - 🛹 Fun Fact: I do skateboarding in my free time
