@@ -2,11 +2,11 @@
 
 
 
-<h2 align="center">
+<h3 align="center">
 <img width="300" align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
   Hola, It's Mohamed Eid!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
