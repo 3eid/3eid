@@ -29,11 +29,12 @@
 ⚡️ Programming Languages
 ------
 
-[![My Skills](https://skillicons.dev/icons?i=redis,mysql,postgres,sqlite,postman,bootstrap,bash,git,linux,vscode&perline=10)]
+![My Skills](https://skillicons.dev/icons?i=redis,mysql,postgres,sqlite,postman,bootstrap,bash,git,linux,vscode&perline=10)]
+
 ⚡️ Frameworks and Technologies
 ------
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,postman,bootstrap,bash,git,linux&perline=10)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,postman,bootstrap,bash,git,linux&perline=10)
 
 <h3 align="left">Connect with me : </h3>
 <p align="center">
