@@ -34,7 +34,7 @@
 ⚡️ Frameworks and Technologies
 ------
 
-[![My Skills](https://skillicons.dev/icons?i=redis,mysql,postgres,sqlite,postman,bootstrap,bash,git,linux,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,postman,bootstrap,bash,git,linux,vscode&perline=10)](https://skillicons.dev)
 
 
 
