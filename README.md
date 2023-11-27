@@ -28,7 +28,7 @@
 
 ⚡️ Programming Languages
 ------
-![My Skills](https://skillicons.dev/icons?i=django,py,java,c,cpp,js,html,css&perline=15)]
+![My Skills](https://skillicons.dev/icons?i=django,py,java,c,cpp,js,html,css&perline=15)
 
 ⚡️ Frameworks and Technologies
 ------
