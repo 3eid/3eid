@@ -1,5 +1,6 @@
 
-<img width="250" align="right" src="[https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)">
+
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Hola, It's Mohamed Eid!
