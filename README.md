@@ -15,26 +15,27 @@
 
 - 🧑‍💻 Freelance  software solutions developer
 - 👨‍🏫 Part-time Programming Instructor
-- 🏢 CSE Senior undergraduate at Faculty of Electronic Engineering, Menofia University 
-- 💼 I have strong enthusiasm about business management and development
+- 🏢 CSE Senior undergraduate at Faculty of Electronic Engineering, Menofia Uni 
+- 💼 I have a strong enthusiasm for business management and development
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python, Django, SQL, HTML, CSS, JS, C, C++ or anything related to web developmen or Embedded systems.
-- 🛹 Fun Fact: I do skateboarding in my freetime.
+- 💬 Ask me about my experience with Python, Django, SQL, HTML, CSS, JS, C, C++.
+- 🛹 Fun Fact: I do skateboarding in my free time.
 - 👨‍💻 Check out my linkedin at [Mohamed Eid - LinkedIn](https://www.linkedin.com/in/mohamed-eid-4354311b4/) to know more about me.
 
 
 
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=Django)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=JS&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=c++)&nbsp;
-![C](https://img.shields.io/badge/-%20-05122A?style=flat&logo=c)&nbsp;
+
+⚡️ Programming Languages
+------
+
+[![My Skills](https://skillicons.dev/icons?i=django,py,java,c,cpp,js,html,css&perline=15)](https://skillicons.dev)
+
+⚡️ Frameworks and Technologies
+------
+
+[![My Skills](https://skillicons.dev/icons?i=redis,mysql,postgres,sqlite,postman,bootstrap,bash,git,linux,vscode&perline=10)](https://skillicons.dev)
+
 
 
 
