@@ -1,8 +1,9 @@
 
 
-<img width="250" align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 
 <h3 align="center">
+<img width="300" align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
   Hola, It's Mohamed Eid!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
