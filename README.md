@@ -15,13 +15,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Developer;Coding%20Instructor;Business%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=008000&vCenter=true&size=22"></a>
 </p> 
 
-- 🧑‍💻 Freelance  software solutions developer
+- 🧑‍💻 Software Engineer
 - 👨‍🏫 Part-time Programming Instructor
 - 🏢 CSE Senior undergraduate at Faculty of Electronic Engineering, Menofia University 
+- 💬 Ask me about my experience with Java, Spring boot, Python, Django, SQL, HTML, CSS, JS, C, C++
 - 💼 I have a strong enthusiasm for business management and development
-- 💬 Ask me about my experience with Python, Django, SQL, HTML, CSS, JS, C, C++
 - 🛹 Fun Fact: I do skateboarding in my free time
-- 👨‍💻 Check out my linkedin at [Mohamed Eid - LinkedIn](https://www.linkedin.com/in/mohamed-eid-4354311b4/) to know more about me
+- 👨‍💻 Check out my linkedin at [Mohamed Eid - LinkedIn](https://www.linkedin.com/in/3eid/) to know more about me
 
 
 
