@@ -29,12 +29,12 @@
 
 ⚡️ Programming Languages
 ------
-![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css&perline=15)
+![My Skills](https://skillicons.dev/icons?i=java,py,cpp,js,html,css&perline=15)
 
 ⚡️ Frameworks and Technologies
 ------
 
-![My Skills](https://skillicons.dev/icons?i=django,mysql,postgres,postman,bootstrap,bash,git,linux&perline=10)
+![My Skills](https://skillicons.dev/icons?i=spring,django,mysql,postgres,elasticsearch,postman,bootstrap,bash,git,linux&perline=10)
 
 <h3 align="left">Connect with me : </h3>
 <p align="center">
